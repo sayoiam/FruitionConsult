@@ -9,8 +9,8 @@ This framework and test can be set via the following;
     ```https://github.com/sayoiam/FruitionConsult```
    
 # Running the project
-To run this project;
-1. Using IntelliJ, expand the project structure on the LHS and right-click on the ```Runner``` class and run
+This project can be run in any of the twos highlighted below;
+1. Using IntelliJ, expand the project structure on the LHS and right-click on the ```Runner``` class and run OR
 2. Using the command prompt, ```cd``` to the root of the project in the folder location. Then run the following commands;
    
     a. If one wants to run the project without specifying any environment (This will run the tests in production);
